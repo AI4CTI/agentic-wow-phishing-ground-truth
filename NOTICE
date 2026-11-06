@@ -1,0 +1,14 @@
+Agentic WOW – phishing / benign URL ground truth
+Copyright 2026 Ermes Cyber Security S.p.A.
+Released under the GNU Affero General Public License v3.0 (see LICENSE).
+
+The benign class includes sites drawn from the Tranco list of popular domains
+(list K9YYW, https://tranco-list.eu/list/K9YYW), by Le Pochat et al.,
+"Tranco: A Research-Oriented Top Sites Ranking Hardened Against
+Manipulation", NDSS 2019.
+
+Brand names that appear in the dataset belong to their owners and are used
+only to describe which brand a phishing page impersonates.
+
+This work was carried out within the AI4CTI project (FISA-2023-00168), funded
+by the Italian Ministry of University and Research (MUR), FISA 2023 programme.
